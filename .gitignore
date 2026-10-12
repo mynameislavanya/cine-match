@@ -1,0 +1,10 @@
+node_modules/
+dist/
+
+# Protect environment files and secrets
+.env
+.env.*
+**/.env
+**/.env.*
+!.env.example
+!**/.env.example
