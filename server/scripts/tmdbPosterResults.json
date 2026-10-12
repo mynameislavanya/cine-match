@@ -1,0 +1,674 @@
+{
+  "580f1639-877a-4438-97b3-38b067535d3c": {
+    "checked": true,
+    "movieId": "580f1639-877a-4438-97b3-38b067535d3c",
+    "movieTitle": "3 Idiots",
+    "year": 2009,
+    "candidates": [
+      {
+        "tmdbId": 20453,
+        "title": "3 Idiots",
+        "releaseDate": "2009-12-23",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/66A9MqXOyVFCssoloscw79z8Tew.jpg"
+      }
+    ]
+  },
+  "f1dc007e-6cd2-45d1-ae48-14db19eebb72": {
+    "checked": true,
+    "movieId": "f1dc007e-6cd2-45d1-ae48-14db19eebb72",
+    "movieTitle": "777 Charlie",
+    "year": 2022,
+    "candidates": [
+      {
+        "tmdbId": 634120,
+        "title": "777 Charlie",
+        "releaseDate": "2022-06-10",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/qArPmXH0aWsT3SEtYl8XrU2Oz48.jpg"
+      }
+    ]
+  },
+  "78c0fc16-1978-4e9d-ace0-bbb8fc055270": {
+    "checked": true,
+    "movieId": "78c0fc16-1978-4e9d-ace0-bbb8fc055270",
+    "movieTitle": "96",
+    "year": 2018,
+    "candidates": [
+      {
+        "tmdbId": 441717,
+        "title": "96",
+        "releaseDate": "2018-10-04",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/nrVloCa2hCFOztRF1DZU2jnWIiQ.jpg"
+      }
+    ]
+  },
+  "73afec5b-b653-4a71-84ee-74c697f3704c": {
+    "checked": true,
+    "movieId": "73afec5b-b653-4a71-84ee-74c697f3704c",
+    "movieTitle": "Ala Vaikunthapurramuloo",
+    "year": 2020,
+    "candidates": [
+      {
+        "tmdbId": 628241,
+        "title": "Ala Vaikunthapurramuloo",
+        "releaseDate": "2020-01-12",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/2rzORJaegE2bbKNVkQXbZCeV0BP.jpg"
+      }
+    ]
+  },
+  "3ddd1df4-8637-4b13-afc9-5c6a2de708bb": {
+    "checked": true,
+    "movieId": "3ddd1df4-8637-4b13-afc9-5c6a2de708bb",
+    "movieTitle": "Andhadhun",
+    "year": 2018,
+    "candidates": [
+      {
+        "tmdbId": 534780,
+        "title": "Andhadhun",
+        "releaseDate": "2018-10-05",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/dy3K6hNvwE05siGgiLJcEiwgpdO.jpg"
+      }
+    ]
+  },
+  "6b09e6d1-4c37-47d0-803f-f4865bb1bd8b": {
+    "checked": true,
+    "movieId": "6b09e6d1-4c37-47d0-803f-f4865bb1bd8b",
+    "movieTitle": "Arjun Reddy",
+    "year": 2017,
+    "candidates": [
+      {
+        "tmdbId": 473234,
+        "title": "Arjun Reddy",
+        "releaseDate": "2017-08-25",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/kHubDgL59I5hCn7ccBYvU7bKY1r.jpg"
+      }
+    ]
+  },
+  "4fba5c19-0093-459a-9905-ecf8f2e368bf": {
+    "checked": true,
+    "movieId": "4fba5c19-0093-459a-9905-ecf8f2e368bf",
+    "movieTitle": "Asuran",
+    "year": 2019,
+    "candidates": [
+      {
+        "tmdbId": 576928,
+        "title": "Asuran",
+        "releaseDate": "2019-10-02",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/Elnp3XrAlMM30dil8rbL7D9XeP.jpg"
+      }
+    ]
+  },
+  "393ea0f6-5dfb-437d-87fd-4e013848311d": {
+    "checked": true,
+    "movieId": "393ea0f6-5dfb-437d-87fd-4e013848311d",
+    "movieTitle": "Ayyappanum Koshiyum",
+    "year": 2020,
+    "candidates": [
+      {
+        "tmdbId": 657996,
+        "title": "Ayyappanum Koshiyum",
+        "releaseDate": "2020-02-07",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/iwmh53N9oPUiCQBZdBWdiB1kur2.jpg"
+      }
+    ]
+  },
+  "9a618011-bb79-413d-b424-c3f8b47266b9": {
+    "checked": true,
+    "movieId": "9a618011-bb79-413d-b424-c3f8b47266b9",
+    "movieTitle": "Baahubali: The Beginning",
+    "year": 2015,
+    "candidates": [
+      {
+        "tmdbId": 256040,
+        "title": "Bāhubali: The Beginning",
+        "releaseDate": "2015-07-10",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/9BAjt8nSSms62uOVYn1t3C3dVto.jpg"
+      }
+    ]
+  },
+  "49688674-1767-46dd-9d4e-a2b21898a27f": {
+    "checked": true,
+    "movieId": "49688674-1767-46dd-9d4e-a2b21898a27f",
+    "movieTitle": "Bangalore Days",
+    "year": 2014,
+    "candidates": [
+      {
+        "tmdbId": 268660,
+        "title": "Bangalore Days",
+        "releaseDate": "2014-05-30",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/iFMyZw1DTGvZ8hPa0eTseSFiRT1.jpg"
+      }
+    ]
+  },
+  "f5068453-8ac5-4cb6-a689-91284a4df303": {
+    "checked": true,
+    "movieId": "f5068453-8ac5-4cb6-a689-91284a4df303",
+    "movieTitle": "Dangal",
+    "year": 2016,
+    "candidates": [
+      {
+        "tmdbId": 360814,
+        "title": "Dangal",
+        "releaseDate": "2016-12-21",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/cJRPOLEexI7qp2DKtFfCh7YaaUG.jpg"
+      }
+    ]
+  },
+  "f76bbc81-1a9d-4294-bf50-fe543bbbfcdb": {
+    "checked": true,
+    "movieId": "f76bbc81-1a9d-4294-bf50-fe543bbbfcdb",
+    "movieTitle": "Drishyam",
+    "year": 2013,
+    "candidates": [
+      {
+        "tmdbId": 244049,
+        "title": "Drishyam",
+        "releaseDate": "2013-12-19",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/gPBldHTnqpgsrnDnSrAlFwE6Q1t.jpg"
+      }
+    ]
+  },
+  "d89efbcc-4d89-4073-bb2f-44325f703975": {
+    "checked": true,
+    "movieId": "d89efbcc-4d89-4073-bb2f-44325f703975",
+    "movieTitle": "Eega",
+    "year": 2012,
+    "candidates": [
+      {
+        "tmdbId": 148265,
+        "title": "Eega",
+        "releaseDate": "2012-07-05",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/pX7fn4EZrg2YFlV4GNMIfHDOQZ6.jpg"
+      }
+    ]
+  },
+  "f84e2062-9e97-40f8-a872-ea929cac24d3": {
+    "checked": true,
+    "movieId": "f84e2062-9e97-40f8-a872-ea929cac24d3",
+    "movieTitle": "Forrest Gump",
+    "year": 1994,
+    "candidates": [
+      {
+        "tmdbId": 13,
+        "title": "Forrest Gump",
+        "releaseDate": "1994-06-23",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/saHP97rTPS5eLmrLQEcANmKrsFl.jpg"
+      }
+    ]
+  },
+  "d81c93d9-e738-4e3a-ade1-6699d279752b": {
+    "checked": true,
+    "movieId": "d81c93d9-e738-4e3a-ade1-6699d279752b",
+    "movieTitle": "Gladiator",
+    "year": 2000,
+    "candidates": [
+      {
+        "tmdbId": 98,
+        "title": "Gladiator",
+        "releaseDate": "2000-05-04",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/aDb548BOkFfI4nFm0kx8A3Ezh7H.jpg"
+      }
+    ]
+  },
+  "6dc1fc46-9c03-474b-8e63-14ee5a210b48": {
+    "checked": true,
+    "movieId": "6dc1fc46-9c03-474b-8e63-14ee5a210b48",
+    "movieTitle": "Godhi Banna Sadharana Mykattu",
+    "year": 2016,
+    "candidates": [
+      {
+        "tmdbId": 402109,
+        "title": "Godhi Banna Sadharana Mykattu",
+        "releaseDate": "2016-06-03",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/4dImTMse7PPFGHPG6GQuwDng9fB.jpg"
+      }
+    ]
+  },
+  "47ff8d49-4728-49f9-a330-7891f29b07b1": {
+    "checked": true,
+    "movieId": "47ff8d49-4728-49f9-a330-7891f29b07b1",
+    "movieTitle": "Gully Boy",
+    "year": 2019,
+    "candidates": [
+      {
+        "tmdbId": 491625,
+        "title": "Gully Boy",
+        "releaseDate": "2019-02-14",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/h57EzPdrDvtUkvbTj6ar5yZOPic.jpg"
+      }
+    ]
+  },
+  "4e69bc0a-c7c7-419e-a517-291493054177": {
+    "checked": true,
+    "movieId": "4e69bc0a-c7c7-419e-a517-291493054177",
+    "movieTitle": "Inception",
+    "year": 2010,
+    "candidates": [
+      {
+        "tmdbId": 27205,
+        "title": "Inception",
+        "releaseDate": "2010-07-15",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg"
+      }
+    ]
+  },
+  "f447d204-c3f8-4133-b43b-0192b43c15ed": {
+    "checked": true,
+    "movieId": "f447d204-c3f8-4133-b43b-0192b43c15ed",
+    "movieTitle": "Interstellar",
+    "year": 2014,
+    "candidates": [
+      {
+        "tmdbId": 157336,
+        "title": "Interstellar",
+        "releaseDate": "2014-11-04",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg"
+      }
+    ]
+  },
+  "90fa600b-4939-48ff-83bc-98836e01ad09": {
+    "checked": true,
+    "movieId": "90fa600b-4939-48ff-83bc-98836e01ad09",
+    "movieTitle": "Jersey",
+    "year": 2019,
+    "candidates": [
+      {
+        "tmdbId": 592898,
+        "title": "Jersey",
+        "releaseDate": "2019-04-19",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/bU9q9yVtxeBiC0Do27CekHXNE6D.jpg"
+      }
+    ]
+  },
+  "4b32da6f-53f9-4199-95b8-14188dd07ce8": {
+    "checked": true,
+    "movieId": "4b32da6f-53f9-4199-95b8-14188dd07ce8",
+    "movieTitle": "Jigarthanda",
+    "year": 2014,
+    "candidates": [
+      {
+        "tmdbId": 270766,
+        "title": "Jigarthanda",
+        "releaseDate": "2014-08-01",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/oDcQE70RYc78iBYgHRknl64QKTu.jpg"
+      }
+    ]
+  },
+  "977cf355-e696-4185-ab8b-195ac65a7a44": {
+    "checked": true,
+    "movieId": "977cf355-e696-4185-ab8b-195ac65a7a44",
+    "movieTitle": "KGF: Chapter 1",
+    "year": 2018,
+    "candidates": [
+      {
+        "tmdbId": 564147,
+        "title": "K.G.F: Chapter 1",
+        "releaseDate": "2018-12-20",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/ltHlJwvxKv7d0ooCiKSAvfwV9tX.jpg"
+      }
+    ]
+  },
+  "e86308b2-2d6c-4bc5-9313-6656091e99a6": {
+    "checked": true,
+    "movieId": "e86308b2-2d6c-4bc5-9313-6656091e99a6",
+    "movieTitle": "Kaithi",
+    "year": 2019,
+    "candidates": [
+      {
+        "tmdbId": 587030,
+        "title": "Kaithi",
+        "releaseDate": "2019-10-24",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/hOF9CgPsy9aLr5GJEBESC8MEXFy.jpg"
+      }
+    ]
+  },
+  "96d722ef-584a-4cd4-840b-89838a60772b": {
+    "checked": true,
+    "movieId": "96d722ef-584a-4cd4-840b-89838a60772b",
+    "movieTitle": "Kantara",
+    "year": 2022,
+    "candidates": [
+      {
+        "tmdbId": 858485,
+        "title": "Kantara",
+        "releaseDate": "2022-09-30",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/jIsKmkxMzdCZ0Ux1GVSnu8m6Na6.jpg"
+      }
+    ]
+  },
+  "4e3442c8-cee9-4295-8ef6-ae8407d29ca9": {
+    "checked": true,
+    "movieId": "4e3442c8-cee9-4295-8ef6-ae8407d29ca9",
+    "movieTitle": "Kirik Party",
+    "year": 2016,
+    "candidates": [
+      {
+        "tmdbId": 433327,
+        "title": "Kirik Party",
+        "releaseDate": "2016-12-30",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/16gpI8K51r2FzZ9wE0VXmrG5v9c.jpg"
+      }
+    ]
+  },
+  "ab7665ff-b3ce-4230-943c-875bd4caea34": {
+    "checked": true,
+    "movieId": "ab7665ff-b3ce-4230-943c-875bd4caea34",
+    "movieTitle": "Kumbalangi Nights",
+    "year": 2019,
+    "candidates": [
+      {
+        "tmdbId": 575351,
+        "title": "Kumbalangi Nights",
+        "releaseDate": "2019-02-07",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/lJ3RvIirE2C7gdBKvPRaoQ3iCo2.jpg"
+      }
+    ]
+  },
+  "7d617290-33b7-4f72-ab71-290953fe7029": {
+    "checked": true,
+    "movieId": "7d617290-33b7-4f72-ab71-290953fe7029",
+    "movieTitle": "Lagaan",
+    "year": 2001,
+    "candidates": [
+      {
+        "tmdbId": 19666,
+        "title": "Lagaan: Once Upon a Time in India",
+        "releaseDate": "2001-06-15",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/yNX9lFRAFeNLNRIXdqZK9gYrYKa.jpg"
+      }
+    ]
+  },
+  "0d161623-60f1-45dd-b3e4-844935756dbc": {
+    "checked": true,
+    "movieId": "0d161623-60f1-45dd-b3e4-844935756dbc",
+    "movieTitle": "Lucia",
+    "year": 2013,
+    "candidates": [
+      {
+        "tmdbId": 219343,
+        "title": "Lucia",
+        "releaseDate": "2013-10-19",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/1b0pkG5fKRXbgxQrk3AVwXSNo7e.jpg"
+      }
+    ]
+  },
+  "9b091bc1-d70e-454d-a9f4-44d96ca2da9e": {
+    "checked": true,
+    "movieId": "9b091bc1-d70e-454d-a9f4-44d96ca2da9e",
+    "movieTitle": "Lucifer",
+    "year": 2019,
+    "candidates": [
+      {
+        "tmdbId": 564701,
+        "title": "Lucifer",
+        "releaseDate": "2019-03-28",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/fXgY2RCzoIJPhPDoyKRjaaqjIZs.jpg"
+      }
+    ]
+  },
+  "b9dbc19c-7ee4-41b4-8a6e-e1f4c0a98ca7": {
+    "checked": true,
+    "movieId": "b9dbc19c-7ee4-41b4-8a6e-e1f4c0a98ca7",
+    "movieTitle": "Mahanati",
+    "year": 2018,
+    "candidates": [
+      {
+        "tmdbId": 459713,
+        "title": "Mahanati",
+        "releaseDate": "2018-05-09",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/5hwtlwoLdSpkoeusT0sf8qW5VFB.jpg"
+      }
+    ]
+  },
+  "16f52aef-a7a3-458d-a7e0-89bc45c6642e": {
+    "checked": true,
+    "movieId": "16f52aef-a7a3-458d-a7e0-89bc45c6642e",
+    "movieTitle": "Maheshinte Prathikaaram",
+    "year": 2016,
+    "candidates": [
+      {
+        "tmdbId": 381691,
+        "title": "Maheshinte Prathikaaram",
+        "releaseDate": "2016-02-05",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/hmK9QUWpOaSs1H7tarzlMNqT60H.jpg"
+      }
+    ]
+  },
+  "524a1ccb-71b8-4e3f-9cae-cfbaa1106ed8": {
+    "checked": true,
+    "movieId": "524a1ccb-71b8-4e3f-9cae-cfbaa1106ed8",
+    "movieTitle": "Premam",
+    "year": 2015,
+    "candidates": [
+      {
+        "tmdbId": 341895,
+        "title": "Premam",
+        "releaseDate": "2015-05-29",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/wfMgsfDrtouYOM6MbrkHtU96Xij.jpg"
+      }
+    ]
+  },
+  "35e96c78-c753-4f2e-a249-751a4975c16c": {
+    "checked": true,
+    "movieId": "35e96c78-c753-4f2e-a249-751a4975c16c",
+    "movieTitle": "Pulp Fiction",
+    "year": 1994,
+    "candidates": [
+      {
+        "tmdbId": 680,
+        "title": "Pulp Fiction",
+        "releaseDate": "1994-09-10",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg"
+      }
+    ]
+  },
+  "f7c33487-5da2-469e-bd88-11f42556eecf": {
+    "checked": true,
+    "movieId": "f7c33487-5da2-469e-bd88-11f42556eecf",
+    "movieTitle": "Pushpa: The Rise",
+    "year": 2021,
+    "candidates": [
+      {
+        "tmdbId": 690957,
+        "title": "Pushpa: The Rise",
+        "releaseDate": "2021-12-16",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/h6Pd89ngvl9quPVsx3KoJlQsvk9.jpg"
+      }
+    ]
+  },
+  "e75d2b52-1015-4a13-b149-c136fac2aa92": {
+    "checked": true,
+    "movieId": "e75d2b52-1015-4a13-b149-c136fac2aa92",
+    "movieTitle": "Queen",
+    "year": 2013,
+    "candidates": [
+      {
+        "tmdbId": 247645,
+        "title": "Queen",
+        "releaseDate": "2014-03-07",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/vKLp0X2RQOuA31R3AdaYtDdKIPK.jpg"
+      }
+    ]
+  },
+  "384466f8-4724-448d-ae52-ee764048c982": {
+    "checked": true,
+    "movieId": "384466f8-4724-448d-ae52-ee764048c982",
+    "movieTitle": "RRR",
+    "year": 2022,
+    "candidates": [
+      {
+        "tmdbId": 579974,
+        "title": "RRR",
+        "releaseDate": "2022-03-24",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/wE0I6efAW4cDDmZQWtwZMOW44EJ.jpg"
+      }
+    ]
+  },
+  "70d0ec67-7c8b-4e84-a40e-a4059fbe979b": {
+    "checked": true,
+    "movieId": "70d0ec67-7c8b-4e84-a40e-a4059fbe979b",
+    "movieTitle": "Rangitaranga",
+    "year": 2015,
+    "candidates": [
+      {
+        "tmdbId": 354667,
+        "title": "Rangi Taranga",
+        "releaseDate": "2015-07-03",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/bcuEuE3k0cIYD1t7HAgNLypfagx.jpg"
+      }
+    ]
+  },
+  "6f9ffdf3-0b05-49d8-8876-d9131fe7d6c0": {
+    "checked": true,
+    "movieId": "6f9ffdf3-0b05-49d8-8876-d9131fe7d6c0",
+    "movieTitle": "Soorarai Pottru",
+    "year": 2020,
+    "candidates": [
+      {
+        "tmdbId": 595228,
+        "title": "Soorarai Pottru",
+        "releaseDate": "2020-11-12",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/5uimlxPCgAei8JfQUDFEUQLoyyh.jpg"
+      }
+    ]
+  },
+  "74bd70bb-823e-4841-a4f7-97b3c09f312f": {
+    "checked": true,
+    "movieId": "74bd70bb-823e-4841-a4f7-97b3c09f312f",
+    "movieTitle": "Super Deluxe",
+    "year": 2019,
+    "candidates": [
+      {
+        "tmdbId": 432011,
+        "title": "Super Deluxe",
+        "releaseDate": "2019-03-29",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/rTsYDdFWyw87CTk4YgJO6nYmVcJ.jpg"
+      }
+    ]
+  },
+  "e3dd863e-31dc-45d6-8a80-86b32bda2e6a": {
+    "checked": true,
+    "movieId": "e3dd863e-31dc-45d6-8a80-86b32bda2e6a",
+    "movieTitle": "Taare Zameen Par",
+    "year": 2007,
+    "candidates": [
+      {
+        "tmdbId": 7508,
+        "title": "Like Stars on Earth",
+        "releaseDate": "2007-12-20",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/puHRt6Raovm5ujGCdwLWvRv4NHU.jpg"
+      }
+    ]
+  },
+  "f59667a8-2616-482a-94d8-cac10f2e1c18": {
+    "checked": true,
+    "movieId": "f59667a8-2616-482a-94d8-cac10f2e1c18",
+    "movieTitle": "The Dark Knight",
+    "year": 2008,
+    "candidates": [
+      {
+        "tmdbId": 155,
+        "title": "The Dark Knight",
+        "releaseDate": "2008-07-16",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg"
+      }
+    ]
+  },
+  "5ab55105-b215-43fd-8fad-14b76fed0bf1": {
+    "checked": true,
+    "movieId": "5ab55105-b215-43fd-8fad-14b76fed0bf1",
+    "movieTitle": "The Matrix",
+    "year": 1999,
+    "candidates": [
+      {
+        "tmdbId": 603,
+        "title": "The Matrix",
+        "releaseDate": "1999-03-31",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/dXNAPwY7VrqMAo51EKhhCJfaGb5.jpg"
+      }
+    ]
+  },
+  "c755e8e7-5adc-4cda-a53b-c1d628bbb784": {
+    "checked": true,
+    "movieId": "c755e8e7-5adc-4cda-a53b-c1d628bbb784",
+    "movieTitle": "The Shawshank Redemption",
+    "year": 1994,
+    "candidates": [
+      {
+        "tmdbId": 278,
+        "title": "The Shawshank Redemption",
+        "releaseDate": "1994-09-23",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg"
+      }
+    ]
+  },
+  "c782bafe-78e3-4f62-936f-83c71cfb642b": {
+    "checked": true,
+    "movieId": "c782bafe-78e3-4f62-936f-83c71cfb642b",
+    "movieTitle": "Thondimuthalum Driksakshiyum",
+    "year": 2017,
+    "candidates": [
+      {
+        "tmdbId": 459719,
+        "title": "Thondimuthalum Driksakshiyum",
+        "releaseDate": "2017-06-30",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/ki1EguwPuXM1t4UTDuaBqD8BLJi.jpg"
+      }
+    ]
+  },
+  "c69c3414-f109-4038-bec0-42ebcf4ca811": {
+    "checked": true,
+    "movieId": "c69c3414-f109-4038-bec0-42ebcf4ca811",
+    "movieTitle": "Ulidavaru Kandanthe",
+    "year": 2014,
+    "candidates": [
+      {
+        "tmdbId": 262476,
+        "title": "Ulidavaru Kandanthe",
+        "releaseDate": "2014-03-28",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/b7Ee4DKKhNVYNV84rovdqcWXjgt.jpg"
+      }
+    ]
+  },
+  "e8b242ec-83ce-49c6-bb12-4cfff459aebb": {
+    "checked": true,
+    "movieId": "e8b242ec-83ce-49c6-bb12-4cfff459aebb",
+    "movieTitle": "Vikram",
+    "year": 2022,
+    "candidates": [
+      {
+        "tmdbId": 743563,
+        "title": "Vikram",
+        "releaseDate": "2022-06-02",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/774UV1aCURb4s4JfEFg3IEMu5Zj.jpg"
+      }
+    ]
+  },
+  "ae02d813-4506-4444-b0b5-66556ef43984": {
+    "checked": true,
+    "movieId": "ae02d813-4506-4444-b0b5-66556ef43984",
+    "movieTitle": "Vikram Vedha",
+    "year": 2017,
+    "candidates": [
+      {
+        "tmdbId": 432139,
+        "title": "Vikram Vedha",
+        "releaseDate": "2017-07-21",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/se12m3uffluDlkTTZncOzsWKIkg.jpg"
+      }
+    ]
+  },
+  "641fd3cb-3e32-4926-ac46-6916bbdbe4f4": {
+    "checked": true,
+    "movieId": "641fd3cb-3e32-4926-ac46-6916bbdbe4f4",
+    "movieTitle": "Zindagi Na Milegi Dobara",
+    "year": 2011,
+    "candidates": [
+      {
+        "tmdbId": 61202,
+        "title": "Zindagi Na Milegi Dobara",
+        "releaseDate": "2011-07-15",
+        "posterUrl": "https://image.tmdb.org/t/p/w500/hKO9O715wYxjkQSEv47giCYcyO8.jpg"
+      }
+    ]
+  }
+}
