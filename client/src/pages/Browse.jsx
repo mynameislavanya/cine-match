@@ -1,5 +1,15 @@
+
 import { useEffect, useState } from 'react';
-import { Container, Grid, TextField, MenuItem, Box, Pagination, Typography } from '@mui/material';
+import {
+  Container,
+  Grid,
+  TextField,
+  MenuItem,
+  Box,
+  Pagination,
+  Typography,
+  Alert
+} from '@mui/material';
 import api from '../services/api';
 import MovieCard from '../components/MovieCard';
 import StateMessage from '../components/StateMessage';
@@ -13,22 +23,45 @@ export default function Browse() {
   const [page, setPage] = useState(1);
   const [pages, setPages] = useState(1);
   const [loading, setLoading] = useState(true);
+  const [error, setError] = useState('');
 
+  // Load available language and genre filters
   useEffect(() => {
-    api.get('/movies/meta').then(({ data }) => setMeta(data)).catch(() => {});
+    api
+      .get('/movies/meta')
+      .then(({ data }) => {
+        setMeta(data);
+      })
+      .catch((error) => {
+        console.error('Failed to load movie filters:', error);
+      });
   }, []);
 
+  // Load movies whenever search or filters change
   useEffect(() => {
     setLoading(true);
+    setError('');
+
     const timeout = setTimeout(() => {
       api
-        .get('/movies', { params: { search, language, genre, page } })
+        .get('/movies', {
+          params: { search, language, genre, page }
+        })
         .then(({ data }) => {
           setMovies(data.movies);
           setPages(data.pages || 1);
         })
-        .finally(() => setLoading(false));
+        .catch((error) => {
+          console.error('Failed to load movies:', error);
+          setMovies([]);
+          setPages(1);
+          setError('Unable to load movies. Please try again.');
+        })
+        .finally(() => {
+          setLoading(false);
+        });
     }, 300);
+
     return () => clearTimeout(timeout);
   }, [search, language, genre, page]);
 
@@ -38,33 +71,75 @@ export default function Browse() {
         Browse the catalogue
       </Typography>
 
-      <Box sx={{ display: 'flex', gap: 2, mb: 4, flexWrap: 'wrap' }}>
+      <Box
+        sx={{
+          display: 'flex',
+          gap: 2,
+          mb: 4,
+          flexWrap: 'wrap'
+        }}
+      >
         <TextField
           label="Search by title"
           value={search}
-          onChange={(e) => { setSearch(e.target.value); setPage(1); }}
+          onChange={(e) => {
+            setSearch(e.target.value);
+            setPage(1);
+          }}
           sx={{ minWidth: 240 }}
         />
+
         <TextField
-          select label="Language" value={language}
-          onChange={(e) => { setLanguage(e.target.value); setPage(1); }}
+          select
+          label="Language"
+          value={language}
+          onChange={(e) => {
+            setLanguage(e.target.value);
+            setPage(1);
+          }}
           sx={{ minWidth: 160 }}
         >
           <MenuItem value="">All languages</MenuItem>
-          {meta.languages.map((l) => <MenuItem key={l} value={l}>{l}</MenuItem>)}
+          {meta.languages.map((l) => (
+            <MenuItem key={l} value={l}>
+              {l}
+            </MenuItem>
+          ))}
         </TextField>
+
         <TextField
-          select label="Genre" value={genre}
-          onChange={(e) => { setGenre(e.target.value); setPage(1); }}
+          select
+          label="Genre"
+          value={genre}
+          onChange={(e) => {
+            setGenre(e.target.value);
+            setPage(1);
+          }}
           sx={{ minWidth: 160 }}
         >
           <MenuItem value="">All genres</MenuItem>
-          {meta.genres.map((g) => <MenuItem key={g} value={g}>{g}</MenuItem>)}
+          {meta.genres.map((g) => (
+            <MenuItem key={g} value={g}>
+              {g}
+            </MenuItem>
+          ))}
         </TextField>
       </Box>
 
+      {error && (
+        <Alert severity="error" sx={{ mb: 2 }}>
+          {error}
+        </Alert>
+      )}
+
       {loading ? (
         <StateMessage kind="loading" />
+      ) : error ? (
+        <Box sx={{ mt: 2 }}>
+          <Typography color="text.secondary">
+            Check your connection and try changing a filter or searching again.
+          </Typography>
+        </Box>
       ) : movies.length === 0 ? (
         <StateMessage
           title="No movies match those filters"
@@ -79,9 +154,21 @@ export default function Browse() {
               </Grid>
             ))}
           </Grid>
+
           {pages > 1 && (
-            <Box sx={{ display: 'flex', justifyContent: 'center', mt: 4 }}>
-              <Pagination count={pages} page={page} onChange={(e, v) => setPage(v)} shape="rounded" />
+            <Box
+              sx={{
+                display: 'flex',
+                justifyContent: 'center',
+                mt: 4
+              }}
+            >
+              <Pagination
+                count={pages}
+                page={page}
+                onChange={(e, v) => setPage(v)}
+                shape="rounded"
+              />
             </Box>
           )}
         </>

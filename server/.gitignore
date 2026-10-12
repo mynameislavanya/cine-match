@@ -5,5 +5,5 @@ node_modules/
 *.sqlite-wal
 
 # Include the CineMatch sample database
-!data/cinematch.sqlite
+!server/data/cinematch.sqlite
 
