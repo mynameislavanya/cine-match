@@ -3,3 +3,7 @@ node_modules/
 *.sqlite
 *.sqlite-shm
 *.sqlite-wal
+
+# Include the CineMatch sample database
+!server/data/cinematch.sqlite
+
