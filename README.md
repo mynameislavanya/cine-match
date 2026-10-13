@@ -105,27 +105,71 @@ The database contains the following tables:
 | `groups` | Stores group details, members, invite codes, shortlists, and results |
 | `votes` | Stores votes cast by group members |
 
-## Project Structure
+## 📁 Project Structure
 
 ```text
 CineMatch/
-├── client/
+│
+├── client/                          # React frontend
+│   ├── public/
+│   │
 │   ├── src/
-│   │   ├── components/
-│   │   ├── pages/
-│   │   └── ...
+│   │   ├── components/              # Reusable UI components
+│   │   │
+│   │   ├── context/
+│   │   │   └── AuthContext.jsx       # Authentication state
+│   │   │
+│   │   ├── pages/                   # Application pages
+│   │   │
+│   │   ├── services/
+│   │   │   └── api.js                # API communication
+│   │   │
+│   │   ├── theme/
+│   │   │   ├── posterPalette.js
+│   │   │   └── theme.js              # UI theme and styling
+│   │   │
+│   │   ├── App.jsx                   # Routes and app layout
+│   │   └── main.jsx                  # React entry point
+│   │
+│   ├── .env.example                  # Frontend environment template
+│   ├── .gitignore
+│   ├── index.html
 │   ├── package.json
-│   └── ...
-├── server/
+│   ├── package-lock.json
+│   └── vite.config.js
+│
+├── server/                           # Node.js and Express backend
+│   ├── config/
+│   │   └── db.js                     # Database connection
+│   │
+│   ├── controllers/                  # Application business logic
+│   │
 │   ├── data/
-│   │   └── cinematch.sqlite
+│   │   ├── cinematch.sqlite          # SQLite database
+│   │   └── sampleMovies.js
+│   │
+│   ├── middleware/
+│   │   ├── auth.js                   # Authentication checks
+│   │   └── error.js                  # Error handling
+│   │
+│   ├── models/                       # Database models
+│   │
+│   ├── routes/                       # API endpoint definitions
+│   │
+│   ├── scripts/                      # Database and poster utilities
+│   │
+│   ├── utils/                        # Shared helper functions
+│   │
+│   ├── .env.example                  # Frontend environment template
+│   ├── .gitignore
+│   ├── app.js
 │   ├── package.json
-│   └── ...
+│   ├── package-lock.json
+│   └── server.js
+│
+├── .gitignore
 └── README.md
 ```
-
-*Note: The structure above is a simplified overview of the project.*
-
 ## Installation and Setup
 
 ### Prerequisites
